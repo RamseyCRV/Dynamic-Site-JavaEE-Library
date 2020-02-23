@@ -1,0 +1,1 @@
+deschizi wamp server, te loghezi si dai importa si importi fisierul biblioteca.sql
